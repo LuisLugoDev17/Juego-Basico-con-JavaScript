@@ -1,7 +1,7 @@
 # Juego-Basico-con-JavaScript
 ¡Bienvenido al juego de adivinar el número!
 
-Este es un juego básico en el que tendrás que adivinar un número secreto entre 1 y 1000. El juego te dará pistas para ayudarte a encontrar el número correcto. Tienes un total de 10 intentos para adivinarlo. Si no logras adivinarlo en esos intentos, perderás el juego.
+Este es un juego básico en el que tendrás que adivinar un número secreto entre 1 y 1000. El juego te dará pistas para ayudarte a encontrar el número correcto. Tienes un total de 15 intentos para adivinarlo. Si no logras adivinarlo en esos intentos, perderás el juego.
 
 Instrucciones:
 
